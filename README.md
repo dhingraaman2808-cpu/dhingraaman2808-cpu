@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Dhingra</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Analytical and self-motivated professional with expertise in managing datasets, statistical analysis, and basic predictive modeling. Highly skilled in Excel formulas, SQL queries, and Power BI dashboarding. Eager to apply structured data cleaning and reporting techniques to improve operational efficiency.</h3>
 
 - 🔭 I’m currently working on **Business Sales**
 
